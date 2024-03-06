@@ -1,0 +1,1016 @@
+15:35:25.779 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=36, gender='Male'}
+15:35:25.782 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:25.783 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:25.784 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=36, gender='Male'}
+15:35:27.286 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=47, gender='Female'}
+15:35:27.290 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=46, gender='Female'}
+15:35:27.293 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:27.296 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:27.297 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=46, gender='Female'}
+15:35:28.806 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:28.808 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:28.810 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=47, gender='Female'}
+15:35:30.326 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=1, gender='Female'}
+15:35:30.328 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=1, gender='Female'}
+15:35:30.329 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=20, gender='Female'}
+15:35:30.330 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=47, gender='Male'}
+15:35:30.331 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:30.333 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:30.335 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=20, gender='Female'}
+15:35:31.848 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:31.850 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:31.851 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=47, gender='Male'}
+15:35:33.352 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=5, gender='Male'}
+15:35:33.353 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=9, gender='Female'}
+15:35:33.354 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=68, gender='Female'}
+15:35:33.355 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=5, gender='Male'}
+15:35:33.356 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=9, gender='Female'}
+15:35:33.357 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:35:33.358 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:33.359 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=68, gender='Female'}
+15:35:34.870 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=30, gender='Male'}
+15:35:34.870 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=7, gender='Male'}
+15:35:34.871 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=21, gender='Male'}
+15:35:34.871 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=7, gender='Male'}
+15:35:34.872 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:34.872 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:34.873 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=21, gender='Male'}
+15:35:36.387 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:36.390 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:36.392 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=30, gender='Male'}
+15:35:37.899 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=71, gender='Male'}
+15:35:37.899 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=15, gender='Male'}
+15:35:37.901 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=34, gender='Female'}
+15:35:37.902 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:37.903 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:37.904 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=15, gender='Male'}
+15:35:39.405 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:39.407 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:39.409 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=34, gender='Female'}
+15:35:40.911 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:35:40.912 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:40.913 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=71, gender='Male'}
+15:35:42.422 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=58, gender='Female'}
+15:35:42.422 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=4, gender='Male'}
+15:35:42.423 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=41, gender='Male'}
+15:35:42.423 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=4, gender='Male'}
+15:35:42.424 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:42.424 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:42.425 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=41, gender='Male'}
+15:35:43.930 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:43.932 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:43.933 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=58, gender='Female'}
+15:35:45.445 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=72, gender='Male'}
+15:35:45.447 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=7, gender='Male'}
+15:35:45.448 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=41, gender='Male'}
+15:35:45.449 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=7, gender='Male'}
+15:35:45.450 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:45.453 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:45.455 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=41, gender='Male'}
+15:35:46.959 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:35:46.960 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:46.961 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=72, gender='Male'}
+15:35:48.475 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=51, gender='Male'}
+15:35:48.477 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=42, gender='Male'}
+15:35:48.478 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=39, gender='Female'}
+15:35:48.479 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:48.480 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:48.481 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=39, gender='Female'}
+15:35:49.996 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:49.998 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:49.998 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=42, gender='Male'}
+15:35:51.507 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:51.508 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:35:51.508 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=51, gender='Male'}
+15:35:53.022 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=38, gender='Female'}
+15:35:53.023 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=60, gender='Female'}
+15:35:53.024 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=23, gender='Female'}
+15:35:53.024 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:53.025 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:53.027 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=23, gender='Female'}
+15:35:54.537 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:54.539 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:54.540 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=38, gender='Female'}
+15:35:56.047 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:35:56.049 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:56.050 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=60, gender='Female'}
+15:35:57.554 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=26, gender='Female'}
+15:35:57.556 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=71, gender='Female'}
+15:35:57.557 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=37, gender='Female'}
+15:35:57.558 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:57.559 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:57.560 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=26, gender='Female'}
+15:35:59.067 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:35:59.069 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:35:59.070 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=37, gender='Female'}
+15:36:00.587 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:00.589 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:00.590 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=71, gender='Female'}
+15:36:02.095 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Bob', age=80, gender='Female'}
+15:36:02.095 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=4, gender='Male'}
+15:36:02.096 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=34, gender='Female'}
+15:36:02.097 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=4, gender='Male'}
+15:36:02.098 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:02.099 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:02.100 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=34, gender='Female'}
+15:36:03.605 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:03.607 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:03.608 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=80, gender='Female'}
+15:36:05.111 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Frank', age=74, gender='Female'}
+15:36:05.112 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=59, gender='Female'}
+15:36:05.113 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=2, gender='Female'}
+15:36:05.113 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=2, gender='Female'}
+15:36:05.115 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:05.116 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:05.117 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=59, gender='Female'}
+15:36:06.619 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:06.621 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:06.622 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=74, gender='Female'}
+15:36:08.126 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=38, gender='Female'}
+15:36:08.127 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=42, gender='Male'}
+15:36:08.127 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=27, gender='Female'}
+15:36:08.128 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:08.130 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:08.131 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=27, gender='Female'}
+15:36:09.633 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:09.635 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:09.636 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=38, gender='Female'}
+15:36:11.138 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:11.140 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:11.141 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=42, gender='Male'}
+15:36:12.646 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=51, gender='Male'}
+15:36:12.646 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=55, gender='Male'}
+15:36:12.646 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=48, gender='Female'}
+15:36:12.647 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:12.647 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:12.648 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=48, gender='Female'}
+15:36:14.160 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:14.161 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:14.162 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=51, gender='Male'}
+15:36:15.677 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:15.679 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:15.680 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=55, gender='Male'}
+15:36:17.190 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Alice', age=64, gender='Male'}
+15:36:17.191 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=39, gender='Male'}
+15:36:17.191 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=8, gender='Female'}
+15:36:17.192 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=8, gender='Female'}
+15:36:17.193 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:17.194 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:17.195 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=39, gender='Male'}
+15:36:18.711 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:18.711 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:18.712 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=64, gender='Male'}
+15:36:20.215 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=6, gender='Female'}
+15:36:20.216 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=48, gender='Female'}
+15:36:20.217 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=34, gender='Female'}
+15:36:20.217 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=6, gender='Female'}
+15:36:20.218 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:20.220 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:20.221 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=34, gender='Female'}
+15:36:21.728 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:21.729 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:21.730 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=48, gender='Female'}
+15:36:23.231 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=24, gender='Male'}
+15:36:23.233 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=22, gender='Male'}
+15:36:23.233 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=63, gender='Female'}
+15:36:23.234 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:23.235 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:23.236 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=22, gender='Male'}
+15:36:24.740 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:24.741 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:24.742 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=24, gender='Male'}
+15:36:26.252 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:26.254 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:26.255 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=63, gender='Female'}
+15:36:27.771 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=60, gender='Female'}
+15:36:27.772 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=71, gender='Female'}
+15:36:27.773 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=11, gender='Female'}
+15:36:27.774 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:27.779 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:27.780 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=11, gender='Female'}
+15:36:29.289 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:29.290 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:29.290 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=60, gender='Female'}
+15:36:30.801 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:30.803 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:30.803 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=71, gender='Female'}
+15:36:32.316 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=55, gender='Male'}
+15:36:32.317 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=47, gender='Female'}
+15:36:32.318 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=23, gender='Male'}
+15:36:32.319 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:32.321 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:32.322 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=23, gender='Male'}
+15:36:33.823 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:33.825 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:33.826 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=47, gender='Female'}
+15:36:35.331 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:35.332 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:35.334 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=55, gender='Male'}
+15:36:36.840 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=54, gender='Male'}
+15:36:36.840 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=71, gender='Female'}
+15:36:36.841 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=7, gender='Male'}
+15:36:36.841 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=7, gender='Male'}
+15:36:36.841 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:36.842 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:36.842 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=54, gender='Male'}
+15:36:38.347 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:38.349 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:38.349 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=71, gender='Female'}
+15:36:39.855 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=43, gender='Female'}
+15:36:39.855 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Grace', age=79, gender='Male'}
+15:36:39.856 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=9, gender='Female'}
+15:36:39.856 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=9, gender='Female'}
+15:36:39.857 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:39.858 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:39.858 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=43, gender='Female'}
+15:36:41.374 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:41.376 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:41.377 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=79, gender='Male'}
+15:36:42.882 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=28, gender='Male'}
+15:36:42.883 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=4, gender='Female'}
+15:36:42.883 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=27, gender='Male'}
+15:36:42.884 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=4, gender='Female'}
+15:36:42.884 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:42.885 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:42.885 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=27, gender='Male'}
+15:36:44.400 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:44.402 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:44.403 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=28, gender='Male'}
+15:36:45.917 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=4, gender='Female'}
+15:36:45.917 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=57, gender='Male'}
+15:36:45.917 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=27, gender='Male'}
+15:36:45.917 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=4, gender='Female'}
+15:36:45.918 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:45.918 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:45.918 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=27, gender='Male'}
+15:36:47.431 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:47.431 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:47.432 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=57, gender='Male'}
+15:36:48.934 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=56, gender='Female'}
+15:36:48.934 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=48, gender='Male'}
+15:36:48.935 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Bob', age=79, gender='Male'}
+15:36:48.935 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:48.935 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:48.936 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=48, gender='Male'}
+15:36:50.438 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:50.440 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:50.441 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=56, gender='Female'}
+15:36:51.949 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:51.950 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:51.951 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=79, gender='Male'}
+15:36:53.457 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Ivy', age=62, gender='Female'}
+15:36:53.458 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=50, gender='Female'}
+15:36:53.459 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=47, gender='Female'}
+15:36:53.460 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:53.461 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:53.462 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=47, gender='Female'}
+15:36:54.964 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:54.966 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:54.967 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=50, gender='Female'}
+15:36:56.481 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+15:36:56.482 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:56.483 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=62, gender='Female'}
+15:36:57.992 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=13, gender='Male'}
+15:36:57.993 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=53, gender='Female'}
+15:36:57.994 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=50, gender='Female'}
+15:36:57.995 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:57.996 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:36:57.996 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=13, gender='Male'}
+15:36:59.505 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:36:59.507 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:36:59.507 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=50, gender='Female'}
+15:37:01.023 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:37:01.024 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:37:01.025 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=53, gender='Female'}
+15:37:02.527 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=55, gender='Male'}
+15:37:02.528 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=13, gender='Female'}
+15:37:02.530 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=4, gender='Male'}
+15:37:02.530 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=4, gender='Male'}
+15:37:02.531 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:37:02.533 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+15:37:02.533 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=13, gender='Female'}
+15:37:04.040 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+15:37:04.042 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+15:37:04.042 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=55, gender='Male'}
+23:43:44.609 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=26, gender='Male'}
+23:43:44.637 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:44.640 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:43:44.642 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=26, gender='Male'}
+23:43:46.144 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=18, gender='Male'}
+23:43:46.147 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=17, gender='Female'}
+23:43:46.154 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:46.161 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:43:46.163 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=17, gender='Female'}
+23:43:47.677 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:47.679 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:43:47.680 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=18, gender='Male'}
+23:43:49.195 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=9, gender='Male'}
+23:43:49.196 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=9, gender='Male'}
+23:43:49.197 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Grace', age=73, gender='Male'}
+23:43:49.198 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=40, gender='Female'}
+23:43:49.200 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:49.201 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:43:49.202 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=40, gender='Female'}
+23:43:50.718 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:43:50.721 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:43:50.723 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=73, gender='Male'}
+23:43:52.224 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=26, gender='Female'}
+23:43:52.225 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=43, gender='Female'}
+23:43:52.226 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=36, gender='Male'}
+23:43:52.228 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:52.231 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:43:52.232 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=26, gender='Female'}
+23:43:53.743 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:53.745 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:43:53.746 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=36, gender='Male'}
+23:43:55.263 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:55.265 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:43:55.266 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=43, gender='Female'}
+23:43:56.777 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=37, gender='Male'}
+23:43:56.778 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=44, gender='Female'}
+23:43:56.779 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=51, gender='Female'}
+23:43:56.781 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:56.783 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:43:56.784 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=37, gender='Male'}
+23:43:58.300 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:58.303 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:43:58.304 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=44, gender='Female'}
+23:43:59.819 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:43:59.820 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:43:59.822 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=51, gender='Female'}
+23:44:01.331 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=46, gender='Male'}
+23:44:01.332 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=78, gender='Female'}
+23:44:01.332 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=57, gender='Female'}
+23:44:01.335 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:01.337 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:01.338 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=46, gender='Male'}
+23:44:02.854 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:02.856 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:02.858 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=57, gender='Female'}
+23:44:04.374 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:04.376 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:04.377 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=78, gender='Female'}
+23:44:05.881 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=1, gender='Female'}
+23:44:05.882 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='David', age=64, gender='Male'}
+23:44:05.882 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=5, gender='Male'}
+23:44:05.883 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=1, gender='Female'}
+23:44:05.884 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=5, gender='Male'}
+23:44:05.886 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:05.889 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:05.890 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=64, gender='Male'}
+23:44:07.400 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=10, gender='Female'}
+23:44:07.401 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=17, gender='Male'}
+23:44:07.402 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=2, gender='Male'}
+23:44:07.402 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=2, gender='Male'}
+23:44:07.404 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:07.406 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:07.407 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=10, gender='Female'}
+23:44:08.911 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:08.914 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:08.915 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=17, gender='Male'}
+23:44:10.421 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=7, gender='Male'}
+23:44:10.422 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=1, gender='Female'}
+23:44:10.423 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=16, gender='Female'}
+23:44:10.424 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=1, gender='Female'}
+23:44:10.424 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=7, gender='Male'}
+23:44:10.427 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:10.429 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:10.430 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=16, gender='Female'}
+23:44:11.942 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=26, gender='Female'}
+23:44:11.943 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=12, gender='Female'}
+23:44:11.944 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=80, gender='Female'}
+23:44:11.946 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:11.948 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:11.949 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=12, gender='Female'}
+23:44:13.457 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:13.459 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:13.460 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=26, gender='Female'}
+23:44:14.972 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:14.975 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:14.976 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=80, gender='Female'}
+23:44:16.485 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=43, gender='Female'}
+23:44:16.486 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=8, gender='Female'}
+23:44:16.487 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=19, gender='Female'}
+23:44:16.488 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=8, gender='Female'}
+23:44:16.490 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:16.492 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:16.493 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=19, gender='Female'}
+23:44:17.997 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:17.998 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:17.999 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=43, gender='Female'}
+23:44:19.501 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=30, gender='Female'}
+23:44:19.501 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=57, gender='Female'}
+23:44:19.502 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=78, gender='Female'}
+23:44:19.503 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:19.504 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:19.504 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=30, gender='Female'}
+23:44:21.007 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:21.011 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:21.012 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=57, gender='Female'}
+23:44:22.525 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:22.526 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:22.527 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=78, gender='Female'}
+23:44:24.043 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=19, gender='Male'}
+23:44:24.044 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=27, gender='Male'}
+23:44:24.045 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=31, gender='Female'}
+23:44:24.047 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:24.050 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:24.052 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=19, gender='Male'}
+23:44:25.562 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:25.565 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:25.566 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=27, gender='Male'}
+23:44:27.082 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:27.084 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:27.085 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=31, gender='Female'}
+23:44:28.589 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=3, gender='Female'}
+23:44:28.589 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=51, gender='Male'}
+23:44:28.590 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=18, gender='Male'}
+23:44:28.590 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=3, gender='Female'}
+23:44:28.591 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:28.592 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:28.592 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=18, gender='Male'}
+23:44:30.108 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:30.109 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:30.109 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=51, gender='Male'}
+23:44:31.616 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=41, gender='Female'}
+23:44:31.616 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=75, gender='Male'}
+23:44:31.617 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=35, gender='Female'}
+23:44:31.617 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:31.618 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:31.619 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=35, gender='Female'}
+23:44:33.123 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:33.125 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:33.126 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=41, gender='Female'}
+23:44:34.629 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:34.631 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:34.632 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=75, gender='Male'}
+23:44:36.148 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=35, gender='Male'}
+23:44:36.148 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=38, gender='Female'}
+23:44:36.148 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Frank', age=72, gender='Male'}
+23:44:36.148 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:36.148 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:36.148 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=35, gender='Male'}
+23:44:37.664 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:37.664 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:37.664 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=38, gender='Female'}
+23:44:39.179 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:39.179 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:39.179 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=72, gender='Male'}
+23:44:40.694 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=38, gender='Male'}
+23:44:40.694 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=38, gender='Male'}
+23:44:40.694 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=6, gender='Male'}
+23:44:40.694 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=6, gender='Male'}
+23:44:40.694 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:40.694 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:40.694 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=38, gender='Male'}
+23:44:42.209 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:42.209 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:42.209 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=38, gender='Male'}
+23:44:43.725 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=64, gender='Female'}
+23:44:43.725 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=34, gender='Male'}
+23:44:43.725 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=57, gender='Male'}
+23:44:43.725 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:43.725 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:43.725 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=34, gender='Male'}
+23:44:45.237 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:45.238 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:45.238 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=57, gender='Male'}
+23:44:46.751 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:46.752 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:46.752 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=64, gender='Female'}
+23:44:48.255 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=27, gender='Male'}
+23:44:48.255 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=53, gender='Female'}
+23:44:48.255 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=5, gender='Male'}
+23:44:48.255 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=5, gender='Male'}
+23:44:48.259 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:48.259 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:48.259 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=27, gender='Male'}
+23:44:49.768 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:49.768 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:49.772 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=53, gender='Female'}
+23:44:51.287 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=3, gender='Female'}
+23:44:51.288 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=59, gender='Male'}
+23:44:51.289 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=23, gender='Male'}
+23:44:51.289 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=3, gender='Female'}
+23:44:51.291 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:51.292 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:51.294 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=23, gender='Male'}
+23:44:52.809 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:52.810 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:52.811 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=59, gender='Male'}
+23:44:54.325 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=45, gender='Male'}
+23:44:54.325 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=72, gender='Female'}
+23:44:54.325 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=72, gender='Female'}
+23:44:54.325 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:44:54.330 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:44:54.331 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=45, gender='Male'}
+23:44:55.838 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:55.838 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:55.842 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=72, gender='Female'}
+23:44:57.353 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:57.353 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:57.357 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=72, gender='Female'}
+23:44:58.873 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=4, gender='Female'}
+23:44:58.873 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=6, gender='Male'}
+23:44:58.873 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=77, gender='Female'}
+23:44:58.873 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=4, gender='Female'}
+23:44:58.875 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=6, gender='Male'}
+23:44:58.876 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:44:58.877 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:44:58.878 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=77, gender='Female'}
+23:45:00.390 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=28, gender='Female'}
+23:45:00.390 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=80, gender='Male'}
+23:45:00.390 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Frank', age=61, gender='Female'}
+23:45:00.392 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:00.394 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:00.395 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=28, gender='Female'}
+23:45:01.902 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:01.903 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:01.904 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=61, gender='Female'}
+23:45:03.414 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:03.416 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:03.417 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=80, gender='Male'}
+23:45:04.928 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=5, gender='Male'}
+23:45:04.928 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=29, gender='Male'}
+23:45:04.928 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=14, gender='Female'}
+23:45:04.930 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=5, gender='Male'}
+23:45:04.931 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:04.933 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:04.934 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=14, gender='Female'}
+23:45:06.452 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:06.454 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:06.455 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=29, gender='Male'}
+23:45:07.964 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=32, gender='Female'}
+23:45:07.964 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Bob', age=80, gender='Female'}
+23:45:07.964 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=67, gender='Female'}
+23:45:07.967 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:07.967 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:07.970 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=32, gender='Female'}
+23:45:09.482 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:09.485 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:09.486 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=67, gender='Female'}
+23:45:11.004 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:11.004 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:11.007 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=80, gender='Female'}
+23:45:12.511 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=39, gender='Male'}
+23:45:12.511 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=2, gender='Female'}
+23:45:12.511 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=17, gender='Male'}
+23:45:12.511 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=2, gender='Female'}
+23:45:12.511 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:12.515 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:12.516 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=17, gender='Male'}
+23:45:14.022 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:14.022 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:14.025 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=39, gender='Male'}
+23:45:15.533 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=36, gender='Female'}
+23:45:15.533 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='David', age=69, gender='Female'}
+23:45:15.533 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=39, gender='Male'}
+23:45:15.533 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:15.537 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:15.538 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=36, gender='Female'}
+23:45:17.048 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:17.050 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:17.051 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=39, gender='Male'}
+23:45:18.561 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:18.563 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:18.565 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=69, gender='Female'}
+23:45:20.079 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=69, gender='Female'}
+23:45:20.079 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=24, gender='Male'}
+23:45:20.079 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=27, gender='Male'}
+23:45:20.082 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:20.083 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:20.084 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=24, gender='Male'}
+23:45:21.609 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:21.610 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:21.611 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=27, gender='Male'}
+23:45:23.111 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:23.111 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:23.114 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=69, gender='Female'}
+23:45:24.618 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=58, gender='Male'}
+23:45:24.618 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Frank', age=70, gender='Female'}
+23:45:24.618 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=26, gender='Male'}
+23:45:24.620 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:24.621 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:24.621 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=26, gender='Male'}
+23:45:26.132 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:26.132 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:26.135 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=58, gender='Male'}
+23:45:27.643 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:27.645 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:27.646 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=70, gender='Female'}
+23:45:29.147 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=55, gender='Female'}
+23:45:29.147 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=53, gender='Male'}
+23:45:29.147 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=8, gender='Female'}
+23:45:29.147 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=8, gender='Female'}
+23:45:29.147 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:29.151 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:29.152 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=53, gender='Male'}
+23:45:30.655 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:30.655 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:30.659 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=55, gender='Female'}
+23:45:32.164 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=56, gender='Female'}
+23:45:32.164 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Alice', age=78, gender='Male'}
+23:45:32.164 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=77, gender='Male'}
+23:45:32.167 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:32.169 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:32.169 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=56, gender='Female'}
+23:45:33.678 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:33.678 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:33.682 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=77, gender='Male'}
+23:45:35.199 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:35.201 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:35.202 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=78, gender='Male'}
+23:45:36.716 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=48, gender='Male'}
+23:45:36.716 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='David', age=75, gender='Female'}
+23:45:36.716 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=41, gender='Female'}
+23:45:36.718 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:36.719 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:36.719 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=41, gender='Female'}
+23:45:38.227 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:38.227 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:38.230 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=48, gender='Male'}
+23:45:39.735 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:39.738 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:39.739 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=75, gender='Female'}
+23:45:41.241 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Ivy', age=71, gender='Male'}
+23:45:41.241 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=38, gender='Female'}
+23:45:41.241 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=54, gender='Male'}
+23:45:41.244 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:41.246 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:41.247 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=38, gender='Female'}
+23:45:42.757 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:42.758 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:42.760 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=54, gender='Male'}
+23:45:44.262 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:44.262 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:44.265 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=71, gender='Male'}
+23:45:45.777 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Grace', age=79, gender='Female'}
+23:45:45.777 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=67, gender='Male'}
+23:45:45.777 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=55, gender='Male'}
+23:45:45.780 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:45.781 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:45.781 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=55, gender='Male'}
+23:45:47.297 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:47.299 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:47.302 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=67, gender='Male'}
+23:45:48.816 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:48.816 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:48.817 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=79, gender='Female'}
+23:45:50.319 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=59, gender='Female'}
+23:45:50.319 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=42, gender='Female'}
+23:45:50.319 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=17, gender='Male'}
+23:45:50.320 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:50.321 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:50.322 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=17, gender='Male'}
+23:45:51.824 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:51.828 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:51.829 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=42, gender='Female'}
+23:45:53.333 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:53.334 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:53.335 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=59, gender='Female'}
+23:45:54.854 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=10, gender='Female'}
+23:45:54.855 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=24, gender='Male'}
+23:45:54.855 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=23, gender='Female'}
+23:45:54.857 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:54.859 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:54.860 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=10, gender='Female'}
+23:45:56.374 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:56.376 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:56.377 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=23, gender='Female'}
+23:45:57.891 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:45:57.892 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:45:57.894 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=24, gender='Male'}
+23:45:59.409 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Ivy', age=79, gender='Female'}
+23:45:59.409 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Grace', age=61, gender='Female'}
+23:45:59.409 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='David', age=65, gender='Female'}
+23:45:59.409 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:45:59.409 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:45:59.409 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=61, gender='Female'}
+23:46:00.925 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:00.925 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:00.925 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=65, gender='Female'}
+23:46:02.435 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:02.436 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:02.437 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=79, gender='Female'}
+23:46:03.937 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=67, gender='Female'}
+23:46:03.938 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='David', age=72, gender='Female'}
+23:46:03.939 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=60, gender='Female'}
+23:46:03.940 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:03.941 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:03.942 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=60, gender='Female'}
+23:46:05.459 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:05.460 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:05.461 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=67, gender='Female'}
+23:46:06.967 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:06.968 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:06.969 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=72, gender='Female'}
+23:46:08.481 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=13, gender='Female'}
+23:46:08.481 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=41, gender='Male'}
+23:46:08.482 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Grace', age=77, gender='Male'}
+23:46:08.484 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:08.487 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:08.488 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=13, gender='Female'}
+23:46:09.997 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:09.999 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:09.999 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=41, gender='Male'}
+23:46:11.507 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:11.508 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:11.508 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=77, gender='Male'}
+23:46:13.019 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=71, gender='Female'}
+23:46:13.020 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=60, gender='Female'}
+23:46:13.020 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=46, gender='Male'}
+23:46:13.021 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:13.023 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:13.024 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=46, gender='Male'}
+23:46:14.529 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:14.530 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:14.531 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=60, gender='Female'}
+23:46:16.035 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:16.036 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:16.037 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=71, gender='Female'}
+23:46:17.544 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=24, gender='Female'}
+23:46:17.544 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=48, gender='Female'}
+23:46:17.545 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=77, gender='Female'}
+23:46:17.546 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:17.546 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:17.546 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=24, gender='Female'}
+23:46:19.049 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:19.050 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:19.050 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=48, gender='Female'}
+23:46:20.556 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:20.558 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:20.558 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=77, gender='Female'}
+23:46:22.072 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=10, gender='Female'}
+23:46:22.074 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=39, gender='Female'}
+23:46:22.074 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=29, gender='Male'}
+23:46:22.075 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:22.076 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:22.077 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=10, gender='Female'}
+23:46:23.588 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:23.590 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:23.591 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=29, gender='Male'}
+23:46:25.099 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:25.102 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:25.103 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=39, gender='Female'}
+23:46:26.613 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=60, gender='Female'}
+23:46:26.614 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Grace', age=61, gender='Female'}
+23:46:26.615 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Ivy', age=66, gender='Female'}
+23:46:26.616 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:26.618 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:26.619 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=60, gender='Female'}
+23:46:28.131 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:28.133 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:28.133 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=61, gender='Female'}
+23:46:29.650 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:29.651 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:29.652 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=66, gender='Female'}
+23:46:31.153 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=48, gender='Female'}
+23:46:31.153 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=54, gender='Male'}
+23:46:31.153 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=5, gender='Male'}
+23:46:31.154 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=5, gender='Male'}
+23:46:31.154 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:31.156 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:31.156 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=48, gender='Female'}
+23:46:32.664 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:32.665 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:32.666 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=54, gender='Male'}
+23:46:34.175 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=32, gender='Female'}
+23:46:34.177 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=59, gender='Female'}
+23:46:34.177 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=63, gender='Male'}
+23:46:34.178 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:34.180 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:34.181 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=32, gender='Female'}
+23:46:35.691 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:35.691 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:35.691 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=59, gender='Female'}
+23:46:37.202 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:37.205 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:37.206 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=63, gender='Male'}
+23:46:38.717 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=73, gender='Male'}
+23:46:38.718 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Bob', age=76, gender='Female'}
+23:46:38.718 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=57, gender='Female'}
+23:46:38.720 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:38.721 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:38.722 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=57, gender='Female'}
+23:46:40.226 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:40.227 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:40.227 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=73, gender='Male'}
+23:46:41.742 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:41.742 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:41.743 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=76, gender='Female'}
+23:46:43.245 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=14, gender='Female'}
+23:46:43.245 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Emma', age=69, gender='Female'}
+23:46:43.246 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=7, gender='Male'}
+23:46:43.246 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=7, gender='Male'}
+23:46:43.247 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:43.249 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:43.251 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=14, gender='Female'}
+23:46:44.756 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:44.756 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:44.757 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=69, gender='Female'}
+23:46:46.271 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=16, gender='Female'}
+23:46:46.271 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=9, gender='Female'}
+23:46:46.273 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=63, gender='Female'}
+23:46:46.273 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=9, gender='Female'}
+23:46:46.274 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:46.276 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:46.277 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=16, gender='Female'}
+23:46:47.789 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:47.790 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:47.790 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=63, gender='Female'}
+23:46:49.298 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=20, gender='Male'}
+23:46:49.298 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=53, gender='Male'}
+23:46:49.299 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=75, gender='Female'}
+23:46:49.300 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:49.301 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:49.302 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=20, gender='Male'}
+23:46:50.818 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:50.821 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:50.822 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=53, gender='Male'}
+23:46:52.331 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:52.333 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:52.334 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=75, gender='Female'}
+23:46:53.849 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=13, gender='Male'}
+23:46:53.850 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=8, gender='Female'}
+23:46:53.850 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=24, gender='Female'}
+23:46:53.851 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=8, gender='Female'}
+23:46:53.852 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:53.854 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:46:53.855 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=13, gender='Male'}
+23:46:55.358 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:55.359 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:55.360 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=24, gender='Female'}
+23:46:56.862 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Jack', age=69, gender='Female'}
+23:46:56.863 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=49, gender='Female'}
+23:46:56.863 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=44, gender='Female'}
+23:46:56.865 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:56.867 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:56.868 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=44, gender='Female'}
+23:46:58.369 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:46:58.370 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:58.370 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=49, gender='Female'}
+23:46:59.872 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:46:59.873 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:46:59.874 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=69, gender='Female'}
+23:47:01.388 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=24, gender='Female'}
+23:47:01.388 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=45, gender='Male'}
+23:47:01.389 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=1, gender='Female'}
+23:47:01.389 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=1, gender='Female'}
+23:47:01.389 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:01.390 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:01.390 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=24, gender='Female'}
+23:47:02.898 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:02.899 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:02.899 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=45, gender='Male'}
+23:47:04.417 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=26, gender='Male'}
+23:47:04.418 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=22, gender='Female'}
+23:47:04.418 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=8, gender='Female'}
+23:47:04.419 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=8, gender='Female'}
+23:47:04.419 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:04.419 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:04.419 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=22, gender='Female'}
+23:47:05.932 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=9, gender='Male'}
+23:47:05.932 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=21, gender='Male'}
+23:47:05.932 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=30, gender='Female'}
+23:47:05.932 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=9, gender='Male'}
+23:47:05.932 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:05.932 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:05.932 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=21, gender='Male'}
+23:47:07.437 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:07.437 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:07.437 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=26, gender='Male'}
+23:47:08.943 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:08.943 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:08.943 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=30, gender='Female'}
+23:47:10.451 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=5, gender='Female'}
+23:47:10.451 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=19, gender='Male'}
+23:47:10.452 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Jack', age=13, gender='Male'}
+23:47:10.452 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=5, gender='Female'}
+23:47:10.454 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:10.455 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:10.455 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Jack', age=13, gender='Male'}
+23:47:11.966 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:11.967 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:11.968 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=19, gender='Male'}
+23:47:13.470 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=44, gender='Female'}
+23:47:13.470 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=60, gender='Male'}
+23:47:13.471 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=60, gender='Female'}
+23:47:13.472 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:13.474 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:13.474 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=44, gender='Female'}
+23:47:14.986 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:47:14.987 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:14.988 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=60, gender='Female'}
+23:47:16.503 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:47:16.503 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:16.503 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=60, gender='Male'}
+23:47:18.017 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=22, gender='Female'}
+23:47:18.018 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=7, gender='Female'}
+23:47:18.018 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=53, gender='Female'}
+23:47:18.020 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=7, gender='Female'}
+23:47:18.021 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:18.022 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:18.022 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=22, gender='Female'}
+23:47:19.523 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:19.523 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:19.523 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=53, gender='Female'}
+23:47:21.031 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=21, gender='Female'}
+23:47:21.031 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Harry', age=5, gender='Male'}
+23:47:21.031 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=51, gender='Male'}
+23:47:21.031 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=5, gender='Male'}
+23:47:21.032 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:21.032 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:21.032 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=21, gender='Female'}
+23:47:22.540 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:22.542 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:22.542 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=51, gender='Male'}
+23:47:24.052 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=22, gender='Female'}
+23:47:24.052 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Ivy', age=16, gender='Female'}
+23:47:24.052 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Frank', age=75, gender='Female'}
+23:47:24.052 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:24.052 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:24.052 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Ivy', age=16, gender='Female'}
+23:47:25.563 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:25.564 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:25.564 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=22, gender='Female'}
+23:47:27.070 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:47:27.070 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:27.070 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=75, gender='Female'}
+23:47:28.672 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=13, gender='Male'}
+23:47:28.673 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=17, gender='Female'}
+23:47:28.673 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=36, gender='Female'}
+23:47:28.674 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:28.674 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:28.674 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=13, gender='Male'}
+23:47:30.181 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:30.182 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:30.183 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=17, gender='Female'}
+23:47:31.684 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:31.684 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:31.684 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=36, gender='Female'}
+23:47:33.192 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Charlie', age=32, gender='Female'}
+23:47:33.192 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Emma', age=42, gender='Female'}
+23:47:33.192 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=46, gender='Female'}
+23:47:33.192 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:33.192 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:33.192 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=32, gender='Female'}
+23:47:34.707 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:34.707 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:34.707 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Emma', age=42, gender='Female'}
+23:47:36.216 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:36.216 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:36.217 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=46, gender='Female'}
+23:47:37.719 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=3, gender='Female'}
+23:47:37.719 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Grace', age=23, gender='Female'}
+23:47:37.720 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=79, gender='Male'}
+23:47:37.720 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=3, gender='Female'}
+23:47:37.721 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:37.721 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:37.722 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Grace', age=23, gender='Female'}
+23:47:39.235 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:47:39.235 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:39.235 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=79, gender='Male'}
+23:47:40.739 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Charlie', age=78, gender='Male'}
+23:47:40.739 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=8, gender='Male'}
+23:47:40.739 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=23, gender='Male'}
+23:47:40.739 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=8, gender='Male'}
+23:47:40.741 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:40.742 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:40.742 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=23, gender='Male'}
+23:47:42.253 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:47:42.253 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:42.253 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Charlie', age=78, gender='Male'}
+23:47:43.794 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Bob', age=47, gender='Female'}
+23:47:43.795 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=80, gender='Male'}
+23:47:43.795 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=29, gender='Male'}
+23:47:43.795 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:43.795 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:43.795 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='David', age=29, gender='Male'}
+23:47:45.299 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:45.299 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:45.299 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Bob', age=47, gender='Female'}
+23:47:46.814 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//SeniorCitizen.txt
+23:47:46.814 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Male.txt
+23:47:46.814 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Harry', age=80, gender='Male'}
+23:47:48.376 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=3, gender='Male'}
+23:47:48.376 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Frank', age=16, gender='Female'}
+23:47:48.376 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Priority Request Produced: PassengerDetails{name='Harry', age=77, gender='Male'}
+23:47:48.376 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=3, gender='Male'}
+23:47:48.376 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:48.376 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:48.376 [Thread-4] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Frank', age=16, gender='Female'}
+23:47:49.895 [Thread-2] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=21, gender='Female'}
+23:47:49.895 [Thread-1] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='Alice', age=27, gender='Female'}
+23:47:49.895 [Thread-0] INFO  com.Ritik.ProducerConsumer.App - Regular Request Produced: PassengerDetails{name='David', age=27, gender='Male'}
+23:47:49.895 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//NormalCitizen.txt
+23:47:49.926 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Content is successfully written to the file: D://FileHandling//Female.txt
+23:47:49.926 [Thread-3] INFO  com.Ritik.ProducerConsumer.App - Consumed: PassengerDetails{name='Alice', age=21, gender='Female'}
+23:11:04.512 [main] INFO  LoggerProblem.AppLogger - Starting the program at 2024-01-04 23:11:04
+23:11:04.515 [main] INFO  LoggerProblem.AppLogger - INFO | 2024-01-04 23:11:04 | Step 1 completed.
+23:11:04.515 [main] INFO  LoggerProblem.AppLogger - Program completed successfully at 2024-01-04 23:11:04
+23:11:40.968 [main] INFO  LoggerProblem.AppLogger - Starting the program at 2024-01-04 23:11:40
+23:11:40.973 [main] INFO  LoggerProblem.AppLogger - INFO | 2024-01-04 23:11:40 | Step 1 completed.
+23:11:40.974 [main] INFO  LoggerProblem.AppLogger - Program completed successfully at 2024-01-04 23:11:40
+23:12:47.969 [main] INFO  LoggerProblem.AppLogger - Starting the program at 2024-01-04 23:12:47
+23:12:47.972 [main] INFO  LoggerProblem.AppLogger - INFO | 2024-01-04 23:12:47 | Step 1 completed.
+23:12:47.972 [main] INFO  LoggerProblem.AppLogger - Program completed successfully at 2024-01-04 23:12:47

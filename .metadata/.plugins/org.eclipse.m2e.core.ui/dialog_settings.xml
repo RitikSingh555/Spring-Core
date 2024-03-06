@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ankit\eclipse-workspace\SpringMVC"/>
+			<item value="C:\Users\ankit\eclipse-workspace\CoreSpring\src\main\java\com\SpringCore\NoXml\Demo.java"/>
+			<item value="C:\Users\ankit\eclipse-workspace\WriteClickhouse\src\main\java\com\Flink\WriteClickhouse\App.java"/>
+			<item value="C:\Users\ankit\eclipse-workspace\FlinkReadFile\src\main\java\com\Flink\FlinkReadFile\ReadCsv.java"/>
+			<item value="C:\Users\ankit\eclipse-workspace\FileReadWrite\src\main\java\com\Flink\FileReadWrite\FlinkJDBCExample.java"/>
+			<item value="C:\Users\ankit\eclipse-workspace\FileReadWrite\pom.xml"/>
+			<item value="C:\Users\ankit\eclipse-workspace\DemoRest\pom.xml"/>
+			<item value="C:\Users\ankit\eclipse-workspace\LoggingDemo1\src\LogDEmo\LoggingDemoFirst.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.Ritik.SpringMVCDemo"/>
+			<item value="com.Springmvc.SpringMVCTest"/>
+			<item value="com.Springmvc.SpringMVCDemo"/>
+			<item value="com.Spring.SpringMVCDemo"/>
+			<item value="com.Spring.SpringMVC"/>
+			<item value="com.Spring.SpringORM"/>
+			<item value="com.Spring.SpringJDBC"/>
+			<item value="com.Spring.CoreSpring"/>
+		</list>
+		<list key="groupId">
+			<item value="com.Ritik"/>
+			<item value="com.Springmvc"/>
+			<item value="com.Spring"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringMVCDemo"/>
+			<item value="SpringMVCTest"/>
+			<item value="SpringMVC"/>
+			<item value="SpringORM"/>
+			<item value="SpringJDBC"/>
+			<item value="CoreSpring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

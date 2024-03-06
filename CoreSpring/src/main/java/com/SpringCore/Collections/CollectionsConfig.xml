@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+xmlns:p="http://www.springframework.org/schema/p"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+
+	<!-- Here by seeing property, IOC container will understand he need to use getter & setters to initialise object -->
+	<bean  class="com.SpringCore.Collections.Emp" name="emp1">
+		<property name="name" value="Radhe" />
+		
+		<property name="phones">
+			<list>
+				<value>12345</value>
+				<value>56889</value>
+				<value>54458</value>
+				<null/>
+			</list>
+		</property>
+		
+		<property name="addresses">
+			<set>
+				<value>Delhi</value>
+				<value>Lucknow</value>
+				<value>Kanpur</value>
+			</set>
+		</property>
+		
+		<property name="courses">
+			<map>
+				<entry key="java" value="2months" />
+				<entry key="python" value="1.2months" />
+				<entry key="C" value="1months" />
+			</map>
+		</property>	
+	</bean>
+
+</beans>
+

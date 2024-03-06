@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+xmlns:p="http://www.springframework.org/schema/p"
+xmlns:util="http://www.springframework.org/schema/util"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd
+http://www.springframework.org/schema/util
+http://www.springframework.org/schema/util/spring-util.xsd">
+
+
+
+
+ 	<!-- IOC container will scan this package and creates the bean of the classes which have @Component annotation -->
+	<context:component-scan base-package="com.SpringCore.Stereotype" />
+	
+	
+	<!-- Standalone Collections -->
+	
+	<util:list list-class="java.util.ArrayList" id="temp">
+		<value>Lucknow</value>
+		<value>Bangalore</value>
+		<value>Hyderabad</value>
+	</util:list>
+	
+	<!-- Setting scope of bean using XML  -->
+	<!-- If we are using singleton scope it will create single object and return the same everytime  -->
+	<!-- But in prototype scope it will create different object everytime and return  -->
+	<!-- There are total 5 types of Bean Scope Singleton, Protype, request,session and global session  we use request and session in spring mvc here we only use singleton and prototype-->
+	<bean class="com.SpringCore.Stereotype.Teacher" name="teacher" scope="prototype" />
+	
+	
+</beans>
+

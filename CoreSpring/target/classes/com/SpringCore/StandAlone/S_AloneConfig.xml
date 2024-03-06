@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+xmlns:p="http://www.springframework.org/schema/p"
+xmlns:util="http://www.springframework.org/schema/util"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd
+http://www.springframework.org/schema/util
+http://www.springframework.org/schema/util/spring-util.xsd">
+
+
+	<!-- StandAlone List -->
+
+	<util:list list-class="java.util.Vector"  id="mybestfriends">
+	
+		<value>Aman</value>
+		<value>Raman</value>
+		<value>Ankit</value>
+		<value>Rohit</value>
+	
+	</util:list>
+	
+	
+	<!-- StandAlone map -->
+
+	<util:map map-class="java.util.HashMap" id="fees">
+	
+		<entry key="Spring Framework" value="8000" />
+		<entry key="Django Framework" value="5000" />
+		<entry key="Hibernate Framework" value="2000" />
+
+	</util:map>
+	
+	
+	<!-- StandAlone Properties -->
+	
+	<util:properties id="dbconfig">
+	
+	<prop key="url"> com,mysql,jdbc.Driver</prop>
+	<prop key="username"> Ritik</prop>
+	<prop key="password">abc </prop>
+	<prop key="url"> mysql:jdbc://localhost:3306/database </prop>
+
+	</util:properties>
+	
+	
+	<bean class="com.SpringCore.StandAlone.Person" name="person1">
+	
+	<!--  <property name="friends"> <ref bean="mybestfriends"/> </property> -->
+	<property name="friends" ref="mybestfriends" />
+	<property name="feestructure" ref="fees" />
+	<property name="properties" ref="dbconfig" />
+	
+	</bean>
+	
+	
+
+</beans>
+

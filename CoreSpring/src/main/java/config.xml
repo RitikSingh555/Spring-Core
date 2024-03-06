@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+xmlns:p="http://www.springframework.org/schema/p"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+
+	<!-- Here by seeing property, IOC container will understand he need to use getter & setters to initialise object -->
+	<bean  class="com.Spring.CoreSpring.Student" name="student1">
+		<property name="studentid">
+		<value>1234</value>
+		</property>
+		
+		<property name="studentName">
+		<value>Ritik</value>
+		</property>
+		
+		
+		<!-- we can also do like below, its a new way -->
+		
+		<property name="studentAddress"  value="Bangalore" />
+	</bean>
+	
+	<!-- Lets create second Bean -->
+	<bean  class="com.Spring.CoreSpring.Student" name="student2">
+		<property name="studentid"  value="4567" />
+		
+		<property name="studentName"  value="Ankit" />
+		
+		<!-- we can also do like below, its a new way -->
+		<property name="studentAddress"  value="Patna" />
+	</bean>
+	
+		<!-- Lets create Third Bean -->
+		<!-- By using P schema technique we can initialise the bean in one line ony & this is best way -->
+		
+		<bean  class="com.Spring.CoreSpring.Student" name="student3" p:studentid="8910"  p:studentName="Rounak" p:studentAddress="Delhi">
+
+	</bean>
+
+</beans>
+
